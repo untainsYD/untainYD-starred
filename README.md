@@ -31,6 +31,8 @@
 ## Scala
 - [Akka](https://github.com/akka/akka) - Using the Actor Model we raise the abstraction level and provide a better platform to build correct concurrent and scalable applications. This model is a perfect match for the principles laid out in the [Reactive Manifesto](www.reactivemanifesto.org)
 - [Play Framework](https://github.com/playframework/playframework) - The High Velocity Web Framework
+- [Zio](https://github.com/zio/zio) - A type-safe, composable library for async and concurrent programming in Scala
+  - [interop-cats](https://github.com/zio/interop-cats) - ZIO instances for cats-effect type classes 
 - [Awesome Scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software
 - [Scala Russian](https://github.com/scala-russian/about) - [Russian Speaking] Scala User Group
 
