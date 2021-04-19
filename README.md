@@ -19,7 +19,7 @@
     - [DataScience](#datascience)
     - [Others](#others)
 
----
+
 
 ## Java
 - [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
@@ -30,7 +30,7 @@
 - [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier for Java.
 
----
+
 
 ## Scala
 - [Akka](https://github.com/akka/akka) - Using the Actor Model we raise the abstraction level and provide a better platform to build correct concurrent and scalable applications. This model is a perfect match for the principles laid out in the [Reactive Manifesto](www.reactivemanifesto.org)
@@ -40,7 +40,7 @@
 - [Awesome Scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software
 - [Scala Russian](https://github.com/scala-russian/about) - [Russian Speaking] Scala User Group
 
----
+
 
 ## JavaScript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index) - Timur Shemsedinov's cs/js course
@@ -53,7 +53,7 @@
 - **React:**
     - [react-howto](https://github.com/petehunt/react-howto) - react how to guide
 
----
+
 
 ## CS
 - [Aesome](https://github.com/sindresorhus/awesome) - general awesome list
@@ -62,7 +62,7 @@
 - [professional-programming](https://github.com/charlax/professional-programming) - The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook.
 
----
+
 
 ## FP
 - [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) - This repo gathers some material on Functional Programming such as blog posts, papers, videos, tools, etc.
@@ -70,7 +70,7 @@
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - This is a curated list of awesome functional programming code and learning resources for JavaScript
 
----
+
 
 ## Math
 - **Category theory:**  
@@ -78,28 +78,28 @@
 - **Functional Analysis:**
     - [fa](https://github.com/Sky-Nik/fa) - Ця сторінка містить усі матеріали нормативного курсу "Функціональний аналіз" що читається у другому семестрі другого курсу на освітній програмі "Прикладна математика" факультетку комп'ютерних наук та кібернетики Київського національного університету імені Тараса Шевченка
 
----
+
 
 ## Compression algorithms
 - [brotli](https://github.com/google/brotli) - Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more dense compression
 
----
+
 
 ## Tools
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Cosmiconfig searches for and loads configuration for your program
 
----
+
 
 ## Git
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
----
+
 
 ## DataScience
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - is an open Machine Learning course by [OpenDataScience](https://ods.ai/)
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - An open source Data Science repository to learn and apply towards solving real world problems
 
----
+
 
 ## Others
 - [Starred Generator](https://github.com/maguowei/starred)
