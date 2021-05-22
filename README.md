@@ -61,6 +61,7 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 - [professional-programming](https://github.com/charlax/professional-programming) - The goal of this page is to make you a more proficient developer. You'll find only resources that I've found truly inspiring, or that have become timeless classics.
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook.
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date.
 
 
 
