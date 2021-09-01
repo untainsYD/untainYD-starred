@@ -45,7 +45,6 @@
 ## JavaScript
 - [HowProgrammingWorks](https://github.com/HowProgrammingWorks/Index) - Timur Shemsedinov's cs/js course
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - You Don't Know JS Yet (book series)
-- [MinskJson/js--base](https://github.com/MinskJson/js--base) - Полезные материалы по JS и воообще.
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js) - This is a curated list of awesome functional programming code and learning resources for JavaScript
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.
