@@ -70,17 +70,22 @@
 
 ---
 
-## Git
+## Dev skills
+
+### CLI
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
+### Git
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
-## Servers
+### Servers
 - [mozilla syncserver](https://github.com/mozilla-services/syncserver) - This is an all-in-one package for running a self-hosted Firefox Sync server. It bundles the "tokenserver" project for authentication and the "syncstorage" project for storage, to produce a single stand-alone webapp.
 - [MailCatcher](https://mailcatcher.me/) - MailCatcher runs a super simple SMTP server.
 
-## Compression algorithms
+### Compression algorithms
 - [brotli](https://github.com/google/brotli) - Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio comparable to the best currently available general-purpose compression methods. It is similar in speed with deflate but offers more dense compression
 
-## Tools
+### Tools
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Cosmiconfig searches for and loads configuration for your program
 
 ---
