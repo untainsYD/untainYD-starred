@@ -98,5 +98,7 @@
 ---
 
 ## Others
+- [Lichess.org](https://github.com/lichess-org)
+    - [ornicar/lila](https://github.com/ornicar/lila) - main backend and frontend (Scala)
 - [Starred Generator](https://github.com/maguowei/starred)
 - [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) - Add dynamically generated GitHub Trophy on your readme
