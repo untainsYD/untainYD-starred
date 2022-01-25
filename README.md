@@ -65,9 +65,11 @@
 
 ## Math
 - **Category theory:**  
-    - [category-theory-resources](https://github.com/prathyvsh/category-theory-resources) - This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory
+    - [category-theory-resources](https://github.com/prathyvsh/category-theory-resources) - This is a curation of introductory materials aimed at an enthusiast who wants to learn Category Theory.
 - **Functional Analysis:**
-    - [fa](https://github.com/Sky-Nik/fa) - Ця сторінка містить усі матеріали нормативного курсу "Функціональний аналіз" що читається у другому семестрі другого курсу на освітній програмі "Прикладна математика" факультетку комп'ютерних наук та кібернетики Київського національного університету імені Тараса Шевченка
+    - [fa](https://github.com/Sky-Nik/fa) - ця сторінка містить усі матеріали нормативного курсу "Функціональний аналіз" що читається у другому семестрі другого курсу на освітній програмі "Прикладна математика" факультетку комп'ютерних наук та кібернетики Київського національного університету імені Тараса Шевченка.
+-  **Proof assistants**
+    -  [z3](https://github.com/Z3Prover/z3) - z3 is a theorem prover from Microsoft Research.
 
 ---
 
@@ -77,7 +79,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 ### Git
-- [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
+- [git-tips/tips](https://github.com/git-tips/tips) - most commonly used git tips and tricks.
 
 ### Servers
 - [mozilla syncserver](https://github.com/mozilla-services/syncserver) - This is an all-in-one package for running a self-hosted Firefox Sync server. It bundles the "tokenserver" project for authentication and the "syncstorage" project for storage, to produce a single stand-alone webapp.
