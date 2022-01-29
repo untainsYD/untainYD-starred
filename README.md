@@ -82,6 +82,7 @@
 - [git-tips/tips](https://github.com/git-tips/tips) - most commonly used git tips and tricks.
 
 ### Self-hosted
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-hosting is the practice of locally hosting and managing applications instead of renting from SaaSS providers.
 - [mozilla syncserver](https://github.com/mozilla-services/syncserver) - This is an all-in-one package for running a self-hosted Firefox Sync server. It bundles the "tokenserver" project for authentication and the "syncstorage" project for storage, to produce a single stand-alone webapp.
 - [MailCatcher](https://mailcatcher.me/) - MailCatcher runs a super simple SMTP server.
 - [Huginn](https://github.com/huginn/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
