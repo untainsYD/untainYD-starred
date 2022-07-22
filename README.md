@@ -30,7 +30,7 @@
     - *NOTES: this is a curated list of awesome functional programming code and learning resources for JavaScript.*
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon).
     - *NOTES: functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.*
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).*
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 - [Strapi](https://github.com/strapi/strapi).
     - *NOTES: headless node.js CMS.*
 
