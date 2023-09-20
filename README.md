@@ -95,6 +95,7 @@
 -  [z3](https://github.com/Z3Prover/z3).
     - *NOTES: `z3` is a theorem prover from Microsoft Research.*
 - [The Mathematical Components repository](https://github.com/math-comp/math-comp).
+- [coq-art](https://github.com/coq-community/coq-art).
 
 ## General or Universal algebra/Abstract algebra 
 - [Morphisms of Computational Constructs](https://github.com/prathyvsh/morphisms-of-computational-structures).
